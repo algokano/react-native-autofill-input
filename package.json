@@ -13,11 +13,14 @@
     "baseUrl": "https://github.com/sarvarr/react-native-autofill-input"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "auto-fill",
+    "android",
+    "ios"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Abdurahimov Sarvar",
+    "email": "algokano@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
@@ -29,5 +32,9 @@
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sarvarr/react-native-autofill-input/issues"
+  },
+  "homepage": "https://github.com/sarvarr/react-native-autofill-input#readme"
 }
