@@ -1,5 +1,15 @@
-import { NativeModules } from 'react-native';
-
+import React, {Component} from 'react'
+import { NativeModules, Text } from 'react-native';
 const { AutofillInput } = NativeModules;
 
-export default AutofillInput;
+class Input extends Component{
+    render() {
+        return(
+            <Text>
+                Hi every one
+            </Text>
+        )
+    }
+}
+
+export default Input;

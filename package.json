@@ -15,8 +15,10 @@
   "keywords": [
     "react-native",
     "auto-fill",
+    "google-sms-retriever-api",
     "android",
-    "ios"
+    "ios",
+    "sms-auto-read"
   ],
   "author": {
     "name": "Abdurahimov Sarvar",
